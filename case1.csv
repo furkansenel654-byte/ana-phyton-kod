@@ -1,0 +1,9 @@
+ProcessID,ArrivalTime,BurstTime,Priority
+P1,0,10,3
+P2,2,8,2
+P3,4,12,5
+P4,6,6,1
+P5,8,15,4
+P6,10,4,3
+P7,12,9,2
+P8,14,7,4
